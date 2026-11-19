@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.flatpak.DCAR</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>DCAR</name>
+  <summary>DCAR Application</summary>
+  <description>
+    <p>DCAR is a remote control application for the Dual Channel Agile Receiver.</p>
+  </description>
+  <launchable type="desktop-id">org.flatpak.DCAR.desktop</launchable>
+  <content_rating type="oars-1.1"/>
+</component>

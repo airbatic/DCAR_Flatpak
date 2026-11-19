@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=DCAR
+Comment=DCAR Software remote control application
+Exec=DCAR
+Icon=org.flatpak.DCAR
+Terminal=false
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=DCAR
+Name[en_US]=org.flatpak.DCAR.desktop
